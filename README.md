@@ -41,7 +41,8 @@
 
 8- Sentry discovers errors on the front-end
 
-9- nanoid > 1kb > unique id generator
+9- nanoid 
+> 1kb - unique id generator
 
 10- Firebase - Supabase for authentication
 
@@ -177,4 +178,12 @@
 ### Type Checking: 
 
 1. TS 
+------
 
+## To-do [Updates]
+
+### Add links & git-hub links to every library.
+### Add install command
+### Last publish date
+### 
+### 
