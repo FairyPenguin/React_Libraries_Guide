@@ -70,7 +70,7 @@
 
 21-
 
-22- markdown-notes-tree[https://www.npmjs.com/package/markdown-notes-tree]
+22- markdown-notes-tree [https://www.npmjs.com/package/markdown-notes-tree]
 >If you have a folder structure with Markdown notes, you can use this tool to generate Markdown trees that act as a table of contents for the folder structure.
 
 >Note: When use it add this argument to the command, believe me it will save you from deleting tons of generating md files in sub-directories   
