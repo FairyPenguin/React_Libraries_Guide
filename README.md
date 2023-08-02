@@ -77,9 +77,18 @@
 13- REACT-CALENDAR [Link](https://projects.wojtekmaj.pl/react-calendar/)
 [github](https://github.com/wojtekmaj/react-calendar)
 
-14-
+14- react-icons [Links](https://react-icons.github.io/)
+>Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
 
-15-
+```
+npm install react-icons 
+```
+
+15- Lucide Icons [Link](https://lucide.dev/guide/packages/lucide-react)
+>Lucide is an open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their projects by providing several official packages to make it easier to use these icons in your project.
+```
+npm install lucide-react
+```
 
 16- 
 
