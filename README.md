@@ -237,7 +237,7 @@ You can create more advanced grids: allow users to persist changes, create a sid
 
 >The magic of Tailwind with the flexibility of css-in-js.
 
-*FixTweet [Link](https://github.com/FixTweet/FixTweet)
+* FixTweet [Link](https://github.com/FixTweet/FixTweet)
 >Embed Twitter videos, polls, and more on Discord and Telegram
 
 
