@@ -46,7 +46,7 @@
 
 10- Firebase - Supabase for authentication
 
-11- react-floating-whatsapp
+11- react-floating-whatsapp [link](https://www.npmjs.com/package/react-floating-whatsapp)
 
 12- shareon [Link](https://www.npmjs.com/package/shareon)
 >Lightweight, stylish, and ethical share buttons
@@ -70,7 +70,15 @@
 
 21-
 
-22-
+22- markdown-notes-tree[https://www.npmjs.com/package/markdown-notes-tree]
+>If you have a folder structure with Markdown notes, you can use this tool to generate Markdown trees that act as a table of contents for the folder structure.
+
+>Note: When use it add this argument to the command, believe me it will save you from deleting tons of generating md files in sub-directories   
+
+```
+markdown-notes-tree --noSubdirectoryTrees
+
+```
 
 23- ink [github](https://github.com/vadimdemedes/ink)
 >React for interactive command-line apps
