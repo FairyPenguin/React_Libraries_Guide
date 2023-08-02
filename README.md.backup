@@ -30,6 +30,18 @@
 >Reakit components are unstyled by default in the core library. Each component returns a single HTML element that accepts all HTML props, including className and style.
 
 
+---
+
+## Components Libraries /
+
+1- Shadecn/ui [Link](https://ui.shadcn.com/)
+>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+>Re-usable components built using Radix UI and Tailwind CSS.
+>This is NOT a component library. It's a collection of re-usable components that you can copy and paste into your apps.
+
+
+
+
 
 
 ---------
@@ -237,7 +249,7 @@ You can create more advanced grids: allow users to persist changes, create a sid
 
 >The magic of Tailwind with the flexibility of css-in-js.
 
-*FixTweet [Link](https://github.com/FixTweet/FixTweet)
+* FixTweet [Link](https://github.com/FixTweet/FixTweet)
 >Embed Twitter videos, polls, and more on Discord and Telegram
 
 
