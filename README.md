@@ -29,6 +29,10 @@
 7- Reakit [Link](https://reakit.io/)
 >Reakit components are unstyled by default in the core library. Each component returns a single HTML element that accepts all HTML props, including className and style.
 
+8- vaul  [Github](https://github.com/emilkowalski/vaul) [Link](https://vaul.emilkowal.ski/)
+>An unstyled drawer component for React.
+
+
 
 ---
 
@@ -274,6 +278,6 @@ You can create more advanced grids: allow users to persist changes, create a sid
 + ### Add links & git-hub links to every library.
 + ### Add install command
 + ### Last publish date
-+ ### 
-+ ### 
++ ### Image Carousal & Swiper category
++ ### Add libraries icons 
 + ###
