@@ -1,4 +1,4 @@
-# React Libraries Guide
+# React Libraries Guide 
 >  *Simple guide for the most used react libraries and react Eco-system tools*
 
 ### Low-Level Components Libraries:
@@ -29,7 +29,7 @@
 7- Reakit [Link](https://reakit.io/)
 >Reakit components are unstyled by default in the core library. Each component returns a single HTML element that accepts all HTML props, including className and style.
 
-8- vaul  [Github](https://github.com/emilkowalski/vaul) [Link](https://vaul.emilkowal.ski/)
+8- Vaul  [Github](https://github.com/emilkowalski/vaul) [Link](https://vaul.emilkowal.ski/)
 >An unstyled drawer component for React.
 
 
